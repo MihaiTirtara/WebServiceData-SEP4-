@@ -21,14 +21,5 @@ namespace WebServiceData.Controllers
             return Json(allPlantsProfiles);   
         }
 
-        // POST api/<controller>
-        [HttpPost]
-        public async void Post([FromBody]PlantProfile plants)
-        {
-            var monogDbService = new MongoDBMain("Project", "PlantProfiles", @"mongodb+srv://Llamaxy:865feeBA@test-i10mg.mongodb.net/test?retryWrites=true");
-
-            await monogDbService.InsertPlantsProfile(plants);
-        }
-
     }
 }
