@@ -60,7 +60,12 @@ namespace WebServiceData.Models
             get; set;
         }
 
-        public PlantProfile(int plantID, string plantName, double temperature, double CO2, double humidity, double amountOfWater, double hoursSinceWatering, DateTime dateTime)
+        [BsonRepresentation(BsonType.Int32)]
+        public int Light
+        {
+            get; set;
+        }
+        public PlantProfile(int plantID, string plantName, double temperature, double CO2, double humidity, double amountOfWater, double hoursSinceWatering, int light, DateTime dateTime)
         {
             this.PlantID = plantID;
             this.PlantName = plantName;
@@ -69,7 +74,9 @@ namespace WebServiceData.Models
             this.Humidity = humidity;
             this.AmountOfWater = amountOfWater;
             this.HoursSinceWatering = hoursSinceWatering;
+            this.Light = light;
             this.DateTime = dateTime;
+           
         }
 
       
