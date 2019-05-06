@@ -5761,11 +5761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SqlTest\\SqlTest\\SqlTest.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\WebServiceData\\SqlTest\\SqlTest\\SqlTest.csproj",
       "projectName": "SqlTest",
-      "projectPath": "C:\\Users\\User\\source\\repos\\SqlTest\\SqlTest\\SqlTest.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\WebServiceData\\SqlTest\\SqlTest\\SqlTest.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\SqlTest\\SqlTest\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\WebServiceData\\SqlTest\\SqlTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

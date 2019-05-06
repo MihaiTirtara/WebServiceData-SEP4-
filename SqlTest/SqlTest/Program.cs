@@ -49,7 +49,7 @@ namespace SqlTest
                     SqlCommand.Parameters.Add("@Humidity", SqlDbType.Float).Value = plants[i].Humidity;
                     SqlCommand.Parameters.Add("@AmountOfWater", SqlDbType.Float).Value = plants[i].AmountOfWater;
                     SqlCommand.Parameters.Add("@HoursSinceWatering", SqlDbType.Float).Value = plants[i].HoursSinceWatering;
-                    SqlCommand.Parameters.Add("@DateTime", SqlDbType.Date).Value = plants[i].DateTime;
+                    SqlCommand.Parameters.Add("@DateTime", SqlDbType.DateTime).Value = plants[i].DateTime;
                     SqlCommand.ExecuteNonQuery();
                     SqlCommand.Dispose();
                     SqlConnection.Close();

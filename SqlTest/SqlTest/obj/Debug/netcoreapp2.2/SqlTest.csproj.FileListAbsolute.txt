@@ -9,3 +9,14 @@ C:\Users\User\source\repos\SqlTest\SqlTest\obj\Debug\netcoreapp2.2\SqlTest.Assem
 C:\Users\User\source\repos\SqlTest\SqlTest\bin\Debug\netcoreapp2.2\SqlTest.pdb
 C:\Users\User\source\repos\SqlTest\SqlTest\obj\Debug\netcoreapp2.2\SqlTest.dll
 C:\Users\User\source\repos\SqlTest\SqlTest\obj\Debug\netcoreapp2.2\SqlTest.pdb
+C:\Users\User\source\repos\WebServiceData\SqlTest\SqlTest\bin\Debug\netcoreapp2.2\SqlTest.deps.json
+C:\Users\User\source\repos\WebServiceData\SqlTest\SqlTest\bin\Debug\netcoreapp2.2\SqlTest.runtimeconfig.json
+C:\Users\User\source\repos\WebServiceData\SqlTest\SqlTest\bin\Debug\netcoreapp2.2\SqlTest.runtimeconfig.dev.json
+C:\Users\User\source\repos\WebServiceData\SqlTest\SqlTest\bin\Debug\netcoreapp2.2\SqlTest.dll
+C:\Users\User\source\repos\WebServiceData\SqlTest\SqlTest\bin\Debug\netcoreapp2.2\SqlTest.pdb
+C:\Users\User\source\repos\WebServiceData\SqlTest\SqlTest\obj\Debug\netcoreapp2.2\SqlTest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WebServiceData\SqlTest\SqlTest\obj\Debug\netcoreapp2.2\SqlTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WebServiceData\SqlTest\SqlTest\obj\Debug\netcoreapp2.2\SqlTest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WebServiceData\SqlTest\SqlTest\obj\Debug\netcoreapp2.2\SqlTest.AssemblyInfo.cs
+C:\Users\User\source\repos\WebServiceData\SqlTest\SqlTest\obj\Debug\netcoreapp2.2\SqlTest.dll
+C:\Users\User\source\repos\WebServiceData\SqlTest\SqlTest\obj\Debug\netcoreapp2.2\SqlTest.pdb
