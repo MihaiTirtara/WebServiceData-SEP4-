@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\WebServiceData",
-    "\\WebServiceData\\Controllers",
-    "\\WebServiceData\\Models"
+    "\\WebServiceData\\CServer"
   ],
-  "SelectedNode": "\\WebServiceData\\Controllers\\MongoDBController.cs",
+  "SelectedNode": "\\WebServiceData\\CServer",
   "PreviewInSolutionExplorer": true
 }
