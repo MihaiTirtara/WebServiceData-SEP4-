@@ -1,17 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Net.Security;
 using System.Net.Sockets;
-using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
-
-namespace WebServiceData.CServer
+using System.Net.Security;
+using System.Security.Cryptography.X509Certificates;
+namespace ClientServer
 {
-    public class Client
+    class Client
     {
         private TcpClient client;
         private NetworkStream ns;
@@ -25,7 +22,7 @@ namespace WebServiceData.CServer
             client = new TcpClient("localhost", 3001);
             ns = client.GetStream();
             connected = true;
-            var ssl = new X509Certificate(File.ReadAllBytes("C:\\Users\\266757\\Downloads\\pubkey.cer"));
+            var ssl = new X509Certificate(File.ReadAllBytes("C:\\Users\\266757\\Desktop\\Desktop\\WebServiceData-SEP4-\\ClientServer\\pubkey.cer"));
 
             sl = new SslStream(ns, false, new RemoteCertificateValidationCallback(ValidateServerCertificate), null);
             sl.AuthenticateAsClient("bridge");
@@ -33,7 +30,7 @@ namespace WebServiceData.CServer
 
         }
 
-
+        
         public static bool ValidateServerCertificate(
             object sender,
               X509Certificate certificate,
@@ -43,7 +40,7 @@ namespace WebServiceData.CServer
         {
             return true;
         }
-
+       
 
         public void SendMsg(string msg)
         {
@@ -55,7 +52,7 @@ namespace WebServiceData.CServer
 
                 byte c;
                 MemoryStream memoryStream = new MemoryStream();
-                while ((c = read.ReadByte()) != 0)
+                while((c = read.ReadByte()) != 0)
                 {
                     memoryStream.WriteByte(c);
                 }
