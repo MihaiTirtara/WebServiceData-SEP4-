@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ClientServer",
+    "\\ClientServer\\ClientServer",
     "\\SqlTest",
-    "\\WebServiceData"
+    "\\SqlTest\\SqlTest",
+    "\\WebServiceData",
+    "\\WebServiceData\\Models"
   ],
-  "SelectedNode": "\\ClientServer\\ClientServer.sln",
+  "SelectedNode": "\\SqlTest",
   "PreviewInSolutionExplorer": true
 }

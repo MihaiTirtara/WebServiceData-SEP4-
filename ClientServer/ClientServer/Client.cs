@@ -19,10 +19,10 @@ namespace ClientServer
         public Client()
         {
 
-            client = new TcpClient("localhost", 3001);
+            client = new TcpClient("0.tcp.ngrok.io", 15978);
             ns = client.GetStream();
             connected = true;
-            var ssl = new X509Certificate(File.ReadAllBytes("C:\\Users\\266757\\Desktop\\Desktop\\WebServiceData-SEP4-\\ClientServer\\pubkey.cer"));
+            var ssl = new X509Certificate(File.ReadAllBytes(System.Environment.GetEnvironmentVariable("USERPROFILE")+ "\\pubkey.cer"));
 
             sl = new SslStream(ns, false, new RemoteCertificateValidationCallback(ValidateServerCertificate), null);
             sl.AuthenticateAsClient("bridge");
