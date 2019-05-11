@@ -28,3 +28,33 @@ C:\Users\266757\Desktop\Desktop\WebServiceData-SEP4-\WebServiceData\obj\Debug\ne
 C:\Users\266757\Desktop\Desktop\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.pdb
 C:\Users\266757\Desktop\Desktop\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.csproj.CopyComplete
 C:\Users\266757\Desktop\Desktop\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.csprojAssemblyReference.cache
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\bin\Debug\netcoreapp2.2\WebServiceData.deps.json
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\bin\Debug\netcoreapp2.2\WebServiceData.runtimeconfig.json
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\bin\Debug\netcoreapp2.2\WebServiceData.runtimeconfig.dev.json
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\bin\Debug\netcoreapp2.2\WebServiceData.dll
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\bin\Debug\netcoreapp2.2\WebServiceData.pdb
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\bin\Debug\netcoreapp2.2\WebServiceData.Views.dll
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\bin\Debug\netcoreapp2.2\WebServiceData.Views.pdb
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.csprojAssemblyReference.cache
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.csproj.CoreCompileInputs.cache
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.RazorAssemblyInfo.cache
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.RazorAssemblyInfo.cs
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.AssemblyInfoInputs.cache
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.AssemblyInfo.cs
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.TagHelpers.input.cache
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.TagHelpers.output.cache
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.RazorCoreGenerate.cache
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.RazorTargetAssemblyInfo.cache
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.RazorTargetAssemblyInfo.cs
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.Views.pdb
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.dll
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.pdb
+C:\Users\coste\Desktop\VIA WorkFolder\SEP4\WebServiceData-SEP4-\WebServiceData\obj\Debug\netcoreapp2.2\WebServiceData.csproj.CopyComplete

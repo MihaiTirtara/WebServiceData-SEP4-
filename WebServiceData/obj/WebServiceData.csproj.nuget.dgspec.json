@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\266757\\Desktop\\Desktop\\WebServiceData-SEP4-\\WebServiceData\\WebServiceData.csproj": {}
+    "C:\\Users\\coste\\Desktop\\VIA WorkFolder\\SEP4\\WebServiceData-SEP4-\\WebServiceData\\WebServiceData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\266757\\Desktop\\Desktop\\WebServiceData-SEP4-\\WebServiceData\\WebServiceData.csproj": {
+    "C:\\Users\\coste\\Desktop\\VIA WorkFolder\\SEP4\\WebServiceData-SEP4-\\WebServiceData\\WebServiceData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\266757\\Desktop\\Desktop\\WebServiceData-SEP4-\\WebServiceData\\WebServiceData.csproj",
+        "projectUniqueName": "C:\\Users\\coste\\Desktop\\VIA WorkFolder\\SEP4\\WebServiceData-SEP4-\\WebServiceData\\WebServiceData.csproj",
         "projectName": "WebServiceData",
-        "projectPath": "C:\\Users\\266757\\Desktop\\Desktop\\WebServiceData-SEP4-\\WebServiceData\\WebServiceData.csproj",
-        "packagesPath": "C:\\Users\\266757\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\266757\\Desktop\\Desktop\\WebServiceData-SEP4-\\WebServiceData\\obj\\",
+        "projectPath": "C:\\Users\\coste\\Desktop\\VIA WorkFolder\\SEP4\\WebServiceData-SEP4-\\WebServiceData\\WebServiceData.csproj",
+        "packagesPath": "C:\\Users\\coste\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coste\\Desktop\\VIA WorkFolder\\SEP4\\WebServiceData-SEP4-\\WebServiceData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\266757\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\coste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
