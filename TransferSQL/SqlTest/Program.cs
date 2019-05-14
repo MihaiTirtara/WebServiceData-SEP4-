@@ -39,7 +39,8 @@ namespace SqlTest
                 {
 
                     
-                    string sql = "Insert into [SEP].[dbo].[Readings] (PlantID, PlantName,Temperature,Light,CO2,Humidity,AmountOfWater,HoursSinceWatering,ReadingDate) values (@PlantID,@PlantName,@Temperature,@Light,@CO2,@Humidity,@AmountOfWater,@HoursSinceWatering,@ReadingDate);";
+                    string sql = "Insert into [SEP].[dbo].[Readings] (PlantID, PlantName,Temperature,Light,CO2,Humidity,AmountOfWater,HoursSinceWatering,ReadingDate)" +
+                        " values (@PlantID,@PlantName,@Temperature,@Light,@CO2,@Humidity,@AmountOfWater,@HoursSinceWatering,@ReadingDate);";
                     SqlConnection.Open();
                     SqlCommand = new SqlCommand(sql, SqlConnection);
                     SqlCommand.Parameters.Add("@PlantID", SqlDbType.Int).Value = plants[i].PlantID;
